@@ -1,0 +1,14 @@
+.fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
+/* .glow {
+  filter: drop-shadow(0 0 10px rgba(173, 155, 245, 0.8));
+} */
+.bright {
+  filter: brightness(3);
+}
